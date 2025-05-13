@@ -84,7 +84,17 @@ Retrieved Feb 24, 2024 from [https://github.com/dgraziotin/disclose-data-dbr-fir
 
 3. NeurIPS. 2025. Reproducibility Checklist. Retrieved May 13, 2025 from [https://neurips.cc/public/guides/PaperChecklist](https://neurips.cc/public/guides/PaperChecklist)
 
+### Best Practices
 
+1. Systems Research Artifacts. 2024. Artifact Packaging Guide. Retrieved May 13, 2025 from [https://sysartifacts.github.io/packaging-guide.html](https://sysartifacts.github.io/packaging-guide.html)
+
+2. Artifact Evaluation Committees (AEC). HOWTO for AEC Submitters. Retrieved May 13, 2025 from [https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0)
+
+3. Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 1. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/)
+
+4. Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 2. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/)
+
+5. Rohan Padhye. 2019. Artifact Evaluation: Tips for Authors. Retrieved May 13, 2025 from [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
 
 
 
