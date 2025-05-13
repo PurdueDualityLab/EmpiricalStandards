@@ -1,6 +1,16 @@
 # Open Science
 The practice of maximizing the accessibility and transparency of science
 
+## Purposes of Artifacts  
+Artifacts accompanying software engineering submissions serve to:
+- **ensure reproducibility** by providing the exact code, data, and scripts needed to rerun experiments;
+- **support validation** by allowing reviewers and readers to verify empirical claims;
+- **facilitate reuse and extension** by offering well‐documented components that others can build upon;
+- **promote transparency and trust** in research through open and standardized dissemination of research outputs.
+
+By adhering to established artifact‐review and badging processes (e.g., ACM, IEEE) and checklist‐driven requirements (e.g., NeurIPS reproducibility checklist), authors demonstrate that their work meets community standards for **usability**, **documentation**, and **accessibility**, ultimately accelerating the advancement of the field.
+
+
 ## Application
 The open science supplement applies to all research.
 
@@ -45,17 +55,34 @@ Researchers should not complain that a study involves artifacts which— for goo
 
 ## Suggested Readings
 
-Noemi Betancort Cabrera, Elke C Bongartz, Nora Dörrenbächer, Jan Goebel, Harald Kaluza, & Pascal Siegers. 2020. White Paper on implementing the FAIR principles for data in the Social, Behavioural, and Economic Sciences (No. 274). RatSWD Working Paper. [https://www.econstor.eu/handle/10419/229719](https://www.econstor.eu/handle/10419/229719)
+### Open Science Policies
+1. Noemi Betancort Cabrera, Elke C Bongartz, Nora Dörrenbächer, Jan Goebel, Harald Kaluza, & Pascal Siegers. 2020. White Paper on implementing the FAIR principles for data in the Social, Behavioural, and Economic Sciences (No. 274). RatSWD Working Paper. [https://www.econstor.eu/handle/10419/229719](https://www.econstor.eu/handle/10419/229719)
 
-Carlos Diego Nascimento Damasceno. 2022. Guidelines for Quality Management of Research Artifacts in Model-Driven Engineering. _MOdeling LAnguages (blog)_. Retrieved July 17, 2022 from [https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#](https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#)
+2. Carlos Diego Nascimento Damasceno. 2022. Guidelines for Quality Management of Research Artifacts in Model-Driven Engineering. _MOdeling LAnguages (blog)_. Retrieved July 17, 2022 from [https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#](https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#)
 
-Daniel Graziotin. 2020. SIGSOFT open science policies. Retrieved July 12, 2020 from [https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md](https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md)
+3. Daniel Graziotin. 2020. SIGSOFT open science policies. Retrieved July 12, 2020 from [https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md](https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md)
 
-Daniel Graziotin. 2018. How to disclose data for double-blind review and make it archived open data upon acceptance
+4. Daniel Graziotin. 2018. How to disclose data for double-blind review and make it archived open data upon acceptance
 Retrieved Feb 24, 2024 from [https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata](https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata)
 
-Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open science in software engineering. _arXiv_. [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499)
+5. Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open science in software engineering. _arXiv_. [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499)
 
-GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
 
-Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
+### Open-source sharing platforms
+1. GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
+
+2. Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
+
+
+### Artifact Review Policies
+1. IEEE. 2015. Artifact evaluation. 2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT), Bremen, Germany, pp. vii-viii. [https://ieeexplore.ieee.org/document/7332408](https://ieeexplore.ieee.org/document/7332408) doi: 10.1109/VISSOFT.2015.7332408
+
+2. ACM. 2022. Artifact Review and Badging Version 1.1. August 24, 2020 from [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
+
+3. NeurIPS. 2025. Reproducibility Checklist. Retrieved May 13, 2025 from [https://neurips.cc/public/guides/PaperChecklist](https://neurips.cc/public/guides/PaperChecklist)
+
+
+
+
+
+
