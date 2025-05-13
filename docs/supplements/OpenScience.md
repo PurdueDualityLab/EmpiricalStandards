@@ -55,7 +55,8 @@ Researchers should not complain that a study involves artifacts which— for goo
 
 ## Suggested Readings
 
-### Open Science Policies
+### Open Science Policy Frameworks
+
 1. Noemi Betancort Cabrera, Elke C Bongartz, Nora Dörrenbächer, Jan Goebel, Harald Kaluza, & Pascal Siegers. 2020. White Paper on implementing the FAIR principles for data in the Social, Behavioural, and Economic Sciences (No. 274). RatSWD Working Paper. [https://www.econstor.eu/handle/10419/229719](https://www.econstor.eu/handle/10419/229719)
 
 2. Carlos Diego Nascimento Damasceno. 2022. Guidelines for Quality Management of Research Artifacts in Model-Driven Engineering. _MOdeling LAnguages (blog)_. Retrieved July 17, 2022 from [https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#](https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#)
@@ -68,13 +69,15 @@ Retrieved Feb 24, 2024 from [https://github.com/dgraziotin/disclose-data-dbr-fir
 5. Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open science in software engineering. _arXiv_. [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499)
 
 
-### Open-source sharing platforms
+### Platforms for Open-Source Artifact Sharing
+
 1. GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
 
 2. Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
 
 
-### Artifact Review Policies
+### Artifact Evaluation and Badging Policies
+
 1. IEEE. 2015. Artifact evaluation. 2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT), Bremen, Germany, pp. vii-viii. [https://ieeexplore.ieee.org/document/7332408](https://ieeexplore.ieee.org/document/7332408) doi: 10.1109/VISSOFT.2015.7332408
 
 2. ACM. 2022. Artifact Review and Badging Version 1.1. August 24, 2020 from [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
