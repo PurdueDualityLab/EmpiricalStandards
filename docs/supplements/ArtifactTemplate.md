@@ -2,6 +2,9 @@
 
 > Artifact for paper: **<Paper Title>**
 
+_NOTE for authors: The [Open Science](./docs/supplements/OpenScience.md) page in the Empirical Standard provides additional information on criteria and examples of good artifacts. Please take a moment to review it._
+
+
 ## Preprint
 
 <!-- 
@@ -46,7 +49,7 @@ This table maps key paper sections or claims to corresponding artifact component
 | Claim 3 (e.g., RQ3: visualization)    | Plotting utility          | `scripts/plot_results.py`  |
 | ...                                   | ...                       | ...                        |
 
-Include a screenshot illustrating this mapping:
+Here is a screenshot illustrating this mapping, taken from [ICSE'23 Paper: An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry](https://github.com/PurdueDualityLab/ICSE-23-PTM-Artifact)
 
 ![Traceability Screenshot](./assets/img/Traceability_screenshot.png)
 
@@ -76,7 +79,7 @@ Describe the top-level and important subdirectories:
 
 ### Installation
 
-If installation is required, please provide a Dockerfile or a script to install the dependencies.
+<!-- If installation is required, please provide a Dockerfile or a script to install the dependencies. -->
 
 1. Using virtual environment:
 ```bash
@@ -118,18 +121,7 @@ python scripts/analyze.py \
 python scripts/generate_figures.py
 ```
 
-## Artifact Contents
-
-| Component         | Description                                    | Paper Reference |
-| ----------------- | ---------------------------------------------- | --------------- |
-| `scripts/`        | Code for preprocessing, analysis, and plotting | Section 4.1–4.3 |
-| `data/raw/`       | Original datasets                              | Section 3.2     |
-| `data/processed/` | Cleaned and transformed datasets               | Section 3.3     |
-| `notebooks/`      | Exploratory and evaluation notebooks           | Section 5       |
-| `results/`        | Generated figures (e.g., Figures 1–5)          | Throughout      |
-| `docs/`           | Supplementary materials and extended methods   | Appendix A      |
-
-## Citations
+## To cite this work
 
 **APA Citation:**
 
@@ -149,7 +141,7 @@ python scripts/generate_figures.py
 
 ## License
 
-Specify the license under which the artifact is released (e.g., MIT, Apache 2.0).
+<!-- Specify the license under which the artifact is released (e.g., MIT, Apache 2.0). -->
 
 ## Contact
 
