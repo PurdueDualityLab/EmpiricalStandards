@@ -1,15 +1,6 @@
 # Open Science
 The practice of maximizing the accessibility and transparency of science
 
-## Purposes of Artifacts  
-Artifacts accompanying software engineering submissions serve to:
-- **ensure reproducibility** by providing the exact code, data, and scripts needed to rerun experiments;
-- **support validation** by allowing reviewers and readers to verify empirical claims;
-- **facilitate reuse and extension** by offering well‐documented components that others can build upon;
-- **promote transparency and trust** in research through open and standardized dissemination of research outputs.
-
-By adhering to established artifact‐review and badging processes (e.g., ACM, IEEE) and checklist‐driven requirements (e.g., NeurIPS reproducibility checklist), authors demonstrate that their work meets community standards for **usability**, **documentation**, and **accessibility**, ultimately accelerating the advancement of the field.
-
 
 ## Application
 The open science supplement applies to all research.
@@ -23,6 +14,15 @@ Artifacts related to a study and the paper itself should, in principle, be made 
 - properly [archived and preserved](https://en.wikipedia.org/wiki/Research_data_archiving),
 
 provided that there are no ethical, legal, technical, economical, or practical barriers preventing their disclosure.
+
+
+Artifacts accompanying software engineering submissions serve several purposes:
+- **Reproducibility**: by providing the exact code, data, and scripts needed to rerun experiments;
+- **Validation**: by allowing reviewers and readers to verify empirical claims;
+- **Reuse and Extension**: by offering well‐documented components that others can build upon;
+- **Transparency and Trust**: by open and standardized dissemination of research outputs.
+
+By adhering to established artifact‐review and badging processes (e.g., ACM, IEEE) or checklist requirements (e.g., NeurIPS reproducibility checklist), authors demonstrate that their work meets community standards for **usability**, **documentation**, and **accessibility**, ultimately accelerating the advancement of the field.
 
 ## Specific Attributes
 
@@ -57,44 +57,44 @@ Researchers should not complain that a study involves artifacts which— for goo
 
 ### Open Science Policy Frameworks
 
-1. Noemi Betancort Cabrera, Elke C Bongartz, Nora Dörrenbächer, Jan Goebel, Harald Kaluza, & Pascal Siegers. 2020. White Paper on implementing the FAIR principles for data in the Social, Behavioural, and Economic Sciences (No. 274). RatSWD Working Paper. [https://www.econstor.eu/handle/10419/229719](https://www.econstor.eu/handle/10419/229719)
+- Noemi Betancort Cabrera, Elke C Bongartz, Nora Dörrenbächer, Jan Goebel, Harald Kaluza, & Pascal Siegers. 2020. White Paper on implementing the FAIR principles for data in the Social, Behavioural, and Economic Sciences (No. 274). RatSWD Working Paper. [https://www.econstor.eu/handle/10419/229719](https://www.econstor.eu/handle/10419/229719)
 
-2. Carlos Diego Nascimento Damasceno. 2022. Guidelines for Quality Management of Research Artifacts in Model-Driven Engineering. _MOdeling LAnguages (blog)_. Retrieved July 17, 2022 from [https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#](https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#)
+- Carlos Diego Nascimento Damasceno. 2022. Guidelines for Quality Management of Research Artifacts in Model-Driven Engineering. _MOdeling LAnguages (blog)_. Retrieved July 17, 2022 from [https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#](https://modeling-languages.com/guidelines-for-quality-management-of-research-artifacts-in-model-driven-engineering/#)
 
-3. Daniel Graziotin. 2020. SIGSOFT open science policies. Retrieved July 12, 2020 from [https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md](https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md)
+- Daniel Graziotin. 2020. SIGSOFT open science policies. Retrieved July 12, 2020 from [https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md](https://github.com/acmsigsoft/open-science-policies/blob/master/sigsoft-open-science-policies.md)
 
-4. Daniel Graziotin. 2018. How to disclose data for double-blind review and make it archived open data upon acceptance
+- Daniel Graziotin. 2018. How to disclose data for double-blind review and make it archived open data upon acceptance
 Retrieved Feb 24, 2024 from [https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata](https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata)
 
-5. Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open science in software engineering. _arXiv_. [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499)
+- Daniel Méndez, Daniel Graziotin, Stefan Wagner, and Heidi Seibold. 2019. Open science in software engineering. _arXiv_. [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499)
 
 
-### Platforms for Open-Source Artifact Sharing
+### Platforms for Artifact Sharing
 
-1. GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
+- GitHub. 2016. Making Your Code Citable. Retrieved July 12, 2020 from [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/). (How to automatically archive a GitHub repository to Zenodo)
 
-2. Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
+- Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2020 from [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account) (How to automatically archive a GitHub repository to Figshare)
 
 
 ### Artifact Evaluation and Badging Policies
 
-1. IEEE. 2015. Artifact evaluation. 2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT), Bremen, Germany, pp. vii-viii. [https://ieeexplore.ieee.org/document/7332408](https://ieeexplore.ieee.org/document/7332408) doi: 10.1109/VISSOFT.2015.7332408
+- IEEE. 2015. Artifact evaluation. 2015 IEEE 3rd Working Conference on Software Visualization (VISSOFT), Bremen, Germany, pp. vii-viii. [https://ieeexplore.ieee.org/document/7332408](https://ieeexplore.ieee.org/document/7332408) doi: 10.1109/VISSOFT.2015.7332408
 
-2. ACM. 2022. Artifact Review and Badging Version 1.1. August 24, 2020 from [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
+- ACM. 2022. Artifact Review and Badging Version 1.1. August 24, 2020 from [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
-3. NeurIPS. 2025. Reproducibility Checklist. Retrieved May 13, 2025 from [https://neurips.cc/public/guides/PaperChecklist](https://neurips.cc/public/guides/PaperChecklist)
+- NeurIPS. 2025. Reproducibility Checklist. Retrieved May 13, 2025 from [https://neurips.cc/public/guides/PaperChecklist](https://neurips.cc/public/guides/PaperChecklist)
 
 ### Best Practices
 
-1. Systems Research Artifacts. 2024. Artifact Packaging Guide. Retrieved May 13, 2025 from [https://sysartifacts.github.io/packaging-guide.html](https://sysartifacts.github.io/packaging-guide.html)
+- Systems Research Artifacts. 2024. Artifact Packaging Guide. Retrieved May 13, 2025 from [https://sysartifacts.github.io/packaging-guide.html](https://sysartifacts.github.io/packaging-guide.html)
 
-2. Artifact Evaluation Committees (AEC). HOWTO for AEC Submitters. Retrieved May 13, 2025 from [https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0)
+- Artifact Evaluation Committees (AEC). HOWTO for AEC Submitters. Retrieved May 13, 2025 from [https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit?tab=t.0)
 
-3. Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 1. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/)
+- Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 1. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-1/)
 
-4. Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 2. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/)
+- Tianyin Xu. 2021. How Are Award‑winning Systems Research Artifacts Prepared – Part 2. Retrieved May 13, 2025 from [https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/](https://www.sigops.org/2021/how-are-award-winning-systems-research-artifacts-prepared-part-2/)
 
-5. Rohan Padhye. 2019. Artifact Evaluation: Tips for Authors. Retrieved May 13, 2025 from [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
+- Rohan Padhye. 2019. Artifact Evaluation: Tips for Authors. Retrieved May 13, 2025 from [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
 
 
 
