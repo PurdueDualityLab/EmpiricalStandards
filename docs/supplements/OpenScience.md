@@ -64,21 +64,25 @@ Figshare. How to connect Figshare with your GitHub account. Retrieved July 12, 2
 ## Examplar Artifacts
 Below are example artifacts for different types of software engineering research to aid in preparing reusable and functional research artifacts.
 
-#### Method: Experiments (System Evaluations, etc) and Quasi-Experiments
+#### Method: Quantitative
 
-Chen, M., Tan, T., Pan, M., & Li, Y. (2025, March). PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps. In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE) (pp. 744-744). IEEE Computer Society. (Artifact). Zenodo. [https://doi.org/10.5281/zenodo.14863334](https://doi.org/10.5281/zenodo.14863334)
+- **Chen, M., Tan, T., Pan, M., & Li, Y. PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps. In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE). (Artifact). Zenodo. [https://doi.org/10.5281/zenodo.14863334](https://doi.org/10.5281/zenodo.14863334)
 
-T. R. Schorlemmer, K. G. Kalu, L. Chigges, et al., “Signing in four public software package registries: Quantity, quality, and influencing factors,” in 2024 IEEE Symposium on Security and Privacy (SP), Los Alamitos, CA, USA: IEEE Computer Society, May 2024. (Artifact) Github [https://github.com/PurdueDualityLab/signature-adoption](https://github.com/PurdueDualityLab/signature-adoption)
+- **T. R. Schorlemmer, K. G. Kalu, L. Chigges, et al. “Signing in four public software package registries: Quantity, quality, and influencing factors.” In 2024 IEEE Symposium on Security and Privacy (SP), Los Alamitos, CA, USA. (Artifact) Github [https://github.com/PurdueDualityLab/signature-adoption](https://github.com/PurdueDualityLab/signature-adoption)
  
-#### Method: Empirical Measurements (Non-human studies)
-Miao Miao, Austin Mordahl, Dakota Soles, Alice Beideck, Shiyi Wei, "An Extensive Empirical Study of Nondeterministic Behavior in Static Analysis Tools", in 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE). (Paper)(Artifact) Github [https://github.com/UTD-FAST-Lab/NDSAStudy](https://github.com/UTD-FAST-Lab/NDSAStudy)
+- **Miao Miao, Austin Mordahl, Dakota Soles, Alice Beideck, Shiyi Wei. "An Extensive Empirical Study of Nondeterministic Behavior in Static Analysis Tools". In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE). (Artifact) Github [https://github.com/UTD-FAST-Lab/NDSAStudy](https://github.com/UTD-FAST-Lab/NDSAStudy)
 
-Xinchen Wang, Ruida Hu, Cuiyun Gao, Xin-Cheng Wen, Yujia Chen, and Qing Liao. 2024. ReposVul: A Repository-Level High-Quality Vulnerability Dataset. In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion '24). Association for Computing Machinery, New York, NY, USA, 472–483. (Paper) https://doi.org/10.1145/3639478.3647634. (Artifact) Github [https://github.com/Eshe0922/ReposVul](https://github.com/Eshe0922/ReposVul)
+- **Xinchen Wang, Ruida Hu, Cuiyun Gao, Xin-Cheng Wen, Yujia Chen, and Qing Liao. ReposVul: A Repository-Level High-Quality Vulnerability Dataset. In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering(ICSE). (Artifact) Github [https://github.com/Eshe0922/ReposVul](https://github.com/Eshe0922/ReposVul)
 
- 
-#### Method: Human Studies (Interviews, Surveys, etc)
+#### Method: Qualitative
 
-Bianca Trinkenreich, Ricardo Britto, Marco A. Gerosa, and Igor Steinmacher. 2022. An empirical investigation on the challenges faced by women in the software industry: a case study. In Proceedings of the 2022 ACM/IEEE 44th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS '22). Association for Computing Machinery, New York, NY, USA, 24–35. (Paper) https://doi.org/10.1145/3510458.3513018 (Artifact)Figshare. [https://figshare.com/s/d1c3bd386083fa55104a](https://figshare.com/s/d1c3bd386083fa55104a)
+- ** Bianca Trinkenreich, Ricardo Britto, Marco A. Gerosa, and Igor Steinmacher. 2022. An empirical investigation on the challenges faced by women in the software industry: a case study. In 2022 ACM/IEEE 44th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). (Artifact) Figshare. [https://figshare.com/s/d1c3bd386083fa55104a](https://figshare.com/s/d1c3bd386083fa55104a)
 
-Kalu, K. G., Singla, T., Okafor, C., Torres-Arias, S., & Davis, J. C. (2025, August). An industry interview study of software signing for supply chain security. In 34th USENIX Security Symposium (USENIX Security 25). USENIX Association. Seattle, WA, USA. (Paper)  (Artifact) Zenodo. [https://doi.org/10.5281/zenodo.14660194](https://doi.org/10.5281/zenodo.14660194)
+- **Kalu, K. G., Singla, T., Okafor, C., Torres-Arias, S., & Davis, J. C. An industry interview study of software signing for supply chain security. In 2025 34th USENIX Security Symposium (USENIX Security). (Artifact) Zenodo. [https://doi.org/10.5281/zenodo.14660194](https://doi.org/10.5281/zenodo.14660194)
 
+- **James Mattei, Madeline McLaughlin, Samantha Katcher, and Daniel Votipka. A Qualitative Evaluation of Reverse Engineering Tool Usability. In 2022 Annual Computer Security Applications Conference (ACSAC). (Artifact) Github [https://github.com/James-Mattei/RE-Tool-Usability-Artifacts](https://github.com/James-Mattei/RE-Tool-Usability-Artifacts)
+
+
+#### Method: Literature Review
+- **Teymourian, A., Webb, A. M., Gharaibeh, T., Ghildiyal, A., & Baggili, I. SoK: Come Together–Unifying Security, Information Theory, and Cognition for a Mixed Reality Deception Attack Ontology & Analysis Framework. 34th USENIX Security Symposium (USENIX Security). (Artifact) Zenodo [https://zenodo.org/records/14732980](https://zenodo.org/records/14732980)
+-  **Tanmay Singla, Dharun Anandayuvaraj, Kelechi G. Kalu, Taylor R. Schorlemmer, and James C. Davis. An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures. In 2023 Proceedings of the Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED). (Artifact) Zenodo [https://zenodo.org/records/8365116](https://zenodo.org/records/8365116)
